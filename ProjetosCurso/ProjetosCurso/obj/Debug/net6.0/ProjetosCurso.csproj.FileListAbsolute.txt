@@ -1,0 +1,15 @@
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\obj\Debug\net6.0\ProjetosCurso.csproj.AssemblyReference.cache
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\obj\Debug\net6.0\ProjetosCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\obj\Debug\net6.0\ProjetosCurso.AssemblyInfoInputs.cache
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\obj\Debug\net6.0\ProjetosCurso.AssemblyInfo.cs
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\obj\Debug\net6.0\ProjetosCurso.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\bin\Debug\net6.0\ProjetosCurso.exe
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\bin\Debug\net6.0\ProjetosCurso.deps.json
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\bin\Debug\net6.0\ProjetosCurso.runtimeconfig.json
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\bin\Debug\net6.0\ProjetosCurso.dll
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\bin\Debug\net6.0\ref\ProjetosCurso.dll
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\bin\Debug\net6.0\ProjetosCurso.pdb
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\obj\Debug\net6.0\ProjetosCurso.dll
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\obj\Debug\net6.0\ref\ProjetosCurso.dll
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\obj\Debug\net6.0\ProjetosCurso.pdb
+C:\Users\DANIEL\source\repos\ProjetosCurso\ProjetosCurso\obj\Debug\net6.0\ProjetosCurso.genruntimeconfig.cache
